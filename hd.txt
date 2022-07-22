@@ -1,0 +1,25 @@
+env\Scripts\activate.bat
+python manage.py runserver
+env\Scripts\activate.bat
+python manage.py runserver
+pip install django
+ python manage.py runserver
+http://127.0.0.1:8000/
+
+cai SQL
+https://dev.mysql.com/downloads/mysql/
+MySQL Downloads »
+MySQL Community Server
+root pass  123456
+
+PK: Primary key --> khong trung lap
+
+
+-----------
+
+Vào setting edit database là mySQL
+
+python manage.py runserver
+env\Scripts\activate.bat
+
+
